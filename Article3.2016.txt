@@ -1,0 +1,47 @@
+AT&T Posts Strong First-Quarter Earnings, Bolstered By New Connections And Customers, Proving Commitment To IoT
+GINA NARCISI 
+APRIL 26, 2016, 06:18 PM EDT
+     	SHARE THIS	
+All eyes were on subscriber numbers as telecom giant AT&T reported its first-quarter 2016 earnings Tuesday: Connected devices helped drive net new connection adds in first-quarter 2016 as AT&T posted a 2.3 million net add increase -- the carrier's best first quarter ever for subscriber gains.
+
+Carriers are struggling with adding new subscribers as the wireless market reaches saturation. Competitor T-Mobile threw down the gauntlet Tuesday morning when it posted 2.2 million net new customers, but thanks to its Internet of Things (IoT) strategy, Dallas-based AT&T's net connection additions are also on the rise.
+
+"There's not a lot of net new growth, because everyone has at least one device, so this is going to be the struggle for carriers for the next decade," said Patrick Lee, business development executive for Alliant Technologies, a solution provider and AT&T Premier partner. "We think the wireless growth needs to come from things like the IoT space or wearables over the next five to 10 years."
+
+[Related: AT&T Adds IoT Platform To Help Partners Realize Growing Mobility Opportunities]
+
+Of the carrier's 2.3 million North American wireless net adds, 1.6 million were connected device net adds, said John Stephens, AT&T's senior executive vice president and chief financial officer, during the carrier's earnings call.
+
+"We now have more that 28 million connected devices on our network, and we are laying the foundation for future growth," he said.
+ADVERTISEMENT
+
+
+Sue Galvanek, vice president of marketing, pricing and product solutions for AT&T Partner Exchange, said that AT&T had an exciting first quarter with respect to IoT. The carrier launched its cloud-based platform – AT&T Control Center – to help solution providers deploy, manage and scale IoT devices. AT&T also released a mobility guide to help more solution providers learn how they can grow with wireless solutions.
+
+"Each move we make helps solution providers increase the value they can provide to their business customers. Our reseller program is giving them access to the wireline and wireless solutions that are helping them drive the next wave of channel growth. In turn, they're helping to contribute to the quarterly growth we're seeing in strategic business services and wireless services," Galvanek said in an email to CRN.
+
+AT&T reported a modest increase in its Business Solutions revenues, up 0.3 percent year over year, with business wireless revenues up 2.3 percent in the first quarter of 2016 when compared with the first quarter of 2015.
+
+Strategic business services revenues were $2.8 billion in first quarter 2016, up from $2.5 billion in first quarter 2015.
+
+AT&T is seeing a growing demand for secure, mobile business solutions, Stephens said.
+
+"Security continues to be top of mind for our business customers, and every enterprise must rethink its place in today's connected world. … Our ability to provide business solutions sets us apart, and we intend to be very active in this space," he said.
+
+AT&T's first-quarter 2016 earnings jumped 24 percent when compared with Q1 2015. The carrier's earnings beat Wall Street expectations of 69 cents per share on revenues of $40.46 billion. AT&T reported consolidated revenues of 72 cents per share on revenues of $40.5 billion, driven largely by its DirecTV acquisition, the carrier said.
+
+Operating expenses increased to $33.4 billion in Q1 2016, compared with $27.0 billion in Q1 2015. In Q1 2016, operating income was $7.1 billion, versus $5.6 billion in Q1 2015, and free cash flow was $3.2 billion, up 17 percent year over year, according to AT&T.
+
+"We turned in another solid financial performance. Revenues grew, margins expanded. … Growth in strategic business services, broadband and video were big factors," Stephens said.
+
+Seattle-based competitor T-Mobile, which also posted Q1 earnings Tuesday, announced it had added 2.2 million net new customers during Q1 2016, which ended March 31. T-Mobile attributed its blooming subscriber head count to its competitively priced plans, family pricing and free video streaming options. John Legere, the carrier's vocal CEO, said AT&T and Verizon were the biggest carriers to "donate subscribers" to T-Mobile.
+
+Unlike T-Mobile, AT&T has said it isn't chasing subscribers. However, the carrier's focus on IoT is helping to give its net new connection numbers a boost. While AT&T is making its presence known in the IoT space, it's still early days for many of its IoT solutions, Alliant's Lee said.
+
+Morristown, N.J.-based Alliant Technologies is already supporting IoT environments for its enterprise customers through building scalable architecture that can support the rapid addition of new devices.
+
+"I do think things like their relationships with auto manufacturers -- like Jaguar and Ford -- for connected cars will have more of an impact on earnings down the road," he said.
+
+With solid business services revenue growth, life for partners within AT&T's Partner Exchange program remains business as usual but channel partners would like to see AT&T work on its API development, said one solution provider who asked not to be identified.
+
+"We are trying to get them to accelerate and expand on APIs to automate more of the business between them and their partners -- they've fallen a little bit short in terms of delivering those capabilities," the solution provider said.
