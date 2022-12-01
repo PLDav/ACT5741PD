@@ -1,0 +1,64 @@
+
+How two decisions in Washington could turn AT&T into a uniquely powerful company
+Image without a caption
+Analysis by Brian Fung
+Reporter
+November 22, 2017 at 6:50 p.m. EST
+Gift Article
+Share
+
+Because of two critical decisions in Washington, all things may turn out well for AT&T (Chris Rank/ Bloomberg News)
+The future of AT&T could be shaped by two big decisions in Washington this week, with the Justice Department suing the telecom giant on Monday to block its $85 billion purchase of Time Warner and the Federal Communications Commission announcing a plan Tuesday to roll back net neutrality rules, handing a big win to Internet providers.
+
+Tech is not your friend. We are. Sign up for The Tech Friend newsletter.
+Some analysts said the combined actions could deliver a double-victory for AT&T. If it wins its antitrust case against the DOJ, AT&T could buy Time Warner without offering any concessions to the government. It could then benefit from the repeal of the government's net neutrality rules, allowing it to leverage Time Warner's massive library of shows, television stations and films like few other companies.
+
+That scenario could turn AT&T into a uniquely powerful force spanning the entertainment and telecommunications industries.
+
+
+Several Wall Street analysts have said that AT&T has a very good chance of winning in court against antitrust officials. The Justice Department has not successfully used the courts to stop two different kinds of companies from merging since the 1970s when the government prevented Ford Motor from buying a chunk of a spark-plug maker.
+
+On top of that, "the rollback of the [net neutrality] rules might give AT&T more flexibility to obtain more benefit from the merger with Time Warner," said Randolph May, president of the Free State Foundation, a conservative think tank.
+
+The net neutrality rules, passed by a Democratic-led FCC in 2015, were designed to ensure that all websites, large and small, would be treated equally. Repealing that regulation would enable Internet providers, such as Comcast, Verizon and AT&T, to block websites they do not like and charge Web companies for speedier delivery of their content.
+
+
+Several analysts said the roll-back of net neutrality rules under a Republican-led FCC is surely good for AT&T, but they are divided on exactly how the repeal will impact the company. Some, such as May, argued that the loosened regulations would allow AT&T to market Time Warner's content in new and different ways that could theoretically help Americans. Others argue that the combination of a bigger AT&T with a more relaxed regulatory environment could simply increase the firm's incentives to harm competitors in the marketplace.
+
+Still others say AT&T wouldn't dare use its newfound size to take unfair advantage of the relaxed regulations, partly because it could provoke a backlash from policymakers and customers.
+
+Some Wall Street analysts said that the strong net neutrality rules passed by the Obama-era FCC left Internet providers spooked. Those companies will now be cautious to do anything that could lead to the restoration of the rules, said Craig Moffett, an industry analyst at MoffettNathanson.
+
+
+"One can't imagine that there are any broadband providers who would be eager to test the limits of what is now allowable under this regulatory regime, given the enormous risk of popular and/or regulatory or legislative backlash," said Moffett.
+
+Still, consumer advocates say relying on after-the-fact enforcement is no substitute for clear, preemptive rules that seek to prevent consumers from being harmed in the first place.
+
+"Taking FCC [rulemaking] power off the table leaves us with only antitrust authority to rely on to protect consumers," said Susan Crawford, a law professor at Harvard University. "Which won't be enough, in the long run."
+
+That's the primary worry of the Justice Department. In its lawsuit against AT&T, the department argued that unless AT&T agrees to shed some of Time Warner's properties, the combined company could use its newfound control over HBO, CNN and TNT to hurt channels that it didn't own, as well as rival Internet and subscription television providers who need access to Time Warner's channels. This, in turn, could lead to higher prices for consumers and more limited choices.
+
+
+This critique becomes more urgent in a world without the FCC's clear rules on net neutrality, according to Gigi Sohn, a former Democratic FCC official, because AT&T could not only disadvantage competing TV channels through the normal cable marketplace, but it could also hinder those same channels from reaching viewers over the Internet.
+
+"AT&T would be free to favor its [Time Warner and DirecTV] content" without the FCC's rules, said Sohn. "It could do this both as a cable provider ... and as an ISP providing fast lanes."
+
+Under this theory, AT&T could make it easier for broadband or wireless customers to access Time Warner's content, making competing channels relatively less attractive by comparison. It could also actively demote other channels that tried to distribute their content through online streaming apps; since AT&T controls its own broadband network, the company could slow down those apps and speed up its own content. That type of selective treatment of Internet traffic was explicitly banned under the Obama-era net neutrality policy.
+
+
+Critics of that theory, however, say it would be counterproductive for AT&T to discriminate against channels it didn't own, arguing that any company that did so would get "clobbered in the marketplace."
+
+"Its customers, its competitors, and regulators and lawmakers would rain hellfire," said a broadband industry official, speaking on condition of anonymity in order to speak more freely. "Even if you accept the premise that ISPs have incentive to favor their own content, there’s a consequence to blocking, and those consequences are not beneficial to the business, the brand or the bottom line."
+
+Third-party studies have suggested that giving Time Warner content special treatment wouldn't pay off for AT&T. One analysis by Fred Campbell, director of the conservative think tank Tech Knowledge, concluded that withholding Time Warner content from, say, Comcast and other cable companies would cost AT&T $8 billion a year in lost rights fees. To make up that shortfall, AT&T would need to expand its own subscriber base by 13 million viewers, according to the study.
+
+
+"The math wouldn’t work even if AT&T could convince all of its rivals’ video subscribers who regularly watch Time Warner shows to switch to DirecTV," wrote Campbell.
+
+AT&T's chief executive Randall Stephenson has said that the goal of purchasing Time Warner is to build an advertising behemoth that can compete with Google and Facebook. To that end, the company benefits when more people can see Time Warner content, not fewer.
+
+"Our objective with Time Warner is to take that content and broaden distribution, not to refine and limit distribution," said Stephenson in a press conference Monday. AT&T declined to comment further.
+
+Other analysts say that will be true only until AT&T can find a business case to behave differently.
+
+"The problem from the point of view of DOJ is that if the deal is approved, it will be very hard to police any commitment by AT&T to make sure that [its content is] available to all eyeballs and so on," said Nicholas Economides, a professor of economics at New York University's Stern School of Business. "The record of such commitments is very poor. The companies do whatever they want. And that's well understood by everybody."
