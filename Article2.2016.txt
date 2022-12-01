@@ -1,0 +1,150 @@
+Companies Routinely Steer Analysts to Deliver Earnings Surprises
+With nudges and phone calls, analysts are urged to lower their estimates, making it easier for companies to beat them; ‘a rigged race,’ says Barry Diller
+
+An AT&T store in New York City’s Times Square. Before announcing earnings in April, the company’s investor-relations employees encouraged analysts to look back at an executive’s comments that suggested revenue might be hurt because some customers were waiting longer to upgrade their mobile phones.
+PHOTO: RICHARD DREW/ASSOCIATED PRESS
+By Thomas GrytaFollow
+, Serena NgFollow
+ and Theo FrancisFollow
+Aug. 4, 2016 11:58 am ET
+
+PRINT
+
+TEXT
+52
+In April, AT&T Inc. T 1.42%increase; green up pointing triangle shares rose after it reported quarterly revenue that narrowly topped the average estimate from analysts.
+
+The surprise wasn’t as surprising as it looked. Before AT&T’s announcement, investor-relations employees at the telecommunications giant encouraged analysts to look back at comments made by finance chief John Stephens in early March, say analysts who spoke with the company. He had implied some customers were waiting longer to upgrade their mobile phones, an important revenue source.
+
+Analysts at three research firms cut their sales estimates by an average of about $1 billion in the week before AT&T issued first-quarter numbers. William Blair & Co. analysts cited Mr. Stephens’s comments. The average estimate of all 22 firms following AT&T fell $323 million in three weeks, according to FactSet.
+
+AT&T wound up reporting $40.54 billion in quarterly revenue, beating the lowered target by $76 million.
+
+NEWSLETTER SIGN-UP
+
+The 10-Point.
+
+A personal, guided tour to the best scoops and stories every day in The Wall Street Journal.
+
+
+Preview
+
+Subscribe
+Quarter after quarter, about 75% of companies in the S&P 500 index meet or exceed analysts’ earnings forecasts, a statistic that has held up in good times and bad. One reason for such consistently impressive results is that some companies quietly nudge analysts’ numbers, almost always lower.
+
+A federal rule bars companies from selectively disclosing material nonpublic information but doesn’t prohibit private conversations in which companies can gently push analysts in helpful directions, as AT&T did.
+
+“We understand the rules, and we follow them diligently,” says Mike Viola, senior vice president of investor relations at AT&T, based in Dallas.
+
+Some analysts, investor-relations officials, securities lawyers and executives say the signals have become so commonplace that the all-important question of whether a company beat estimates is more about theatrics than reality.
+
+Companies send the signals to make themselves look better—and boost their stock prices—even though their fundamentals haven’t changed at all. And the signals often go to just a small number of analysts, giving them and their investing clients a potentially unfair advantage.
+
+Media mogul Barry Diller, chairman of Expedia Inc. and IAC/InterActiveCorp, says analysts and investor-relations executives work together to keep estimates low. “It is a rigged race,” he says, adding that the problem exists even at those two publicly traded companies.
+
+An analysis by The Wall Street Journal found that earnings estimates often decline steadily after the end of a quarter. That can turn what might have been an embarrassing “miss” for the company into a positive surprise.
+
+The Journal examined daily changes in analysts’ estimates at S&P 500 companies since the start of 2013, comparing the estimates with what the companies ultimately reported for each period.
+
+
+Nearly 2,000 times from the start of 2013 through this year’s first quarter, companies would have missed the average earnings estimate if analysts hadn’t changed their numbers in the 40 trading days before the company’s quarterly earnings report.
+
+In about one-fourth of the instances where companies would have missed the average earnings estimate, the average projection fell enough that the company wound up meeting or beating analysts’ expectations instead, the Journal’s analysis shows. The 40 trading days cover the period from when companies typically have a good sense of the quarter’s performance to the day before earnings are announced.
+
+Lowered earnings forecasts helped 66 companies, including Citigroup Inc., Coca-Cola Co. and Viacom Inc., each meet or exceed earnings expectations during at least three of 13 quarters examined by the Journal. CBS Corp., U.S. Bancorp and seven other companies met or beat reduced estimates in about half the quarters.
+
+Viacom says its analyst interactions are consistent with industry practice. Citigroup says it provides financial updates at conferences between earnings releases. Coca-Cola, CBS and U.S. Bancorp wouldn’t comment.
+
+The opposite almost never happens. Companies wound up missing earnings estimates just 1% of the time after being on track to beat them 40 trading days earlier, the Journal’s analysis shows.
+
+The stakes are high. In the past five years, the share price of companies in the S&P 500 that fell short of analysts’ average earnings estimate dropped 2.2% on average in the two days before and after reporting quarterly results, according to FactSet.
+
+Companies have different ways of coaxing analysts to shrink their estimates. Investor-relations officials sometimes point out to analysts where their estimates are in relation to other analysts.
+
+
+Analysts whose forecasts are far from what companies end up reporting risk losing credibility with clients and could get less access to company management. Those are reasons to listen if a company calls with a suggestion, according to analysts.
+
+“Companies have called to ask if I was aware of their guidance and incorporated it into my models,” says Jeffrey Harte, a banking analyst at Sandler O’Neill + Partners LP in Chicago.
+
+Roger Freeman, who left the stock-research industry in 2014 and now works at a technology startup, says: “If someone is trying to get your numbers down, they will highlight all the negatives and not positives, and you’ll come away thinking: ‘Gee, that sounds pretty bad,’ and sometimes take your numbers down.”
+
+Advertisement - Scroll to Continue
+
+The Securities and Exchange Commission says companies may privately comment on analysts’ financial models as long as the companies are correcting historical facts in the public domain or sharing “seemingly inconsequential data,” even if analysts use the information to draw significant conclusions.
+
+The SEC says companies shouldn’t use private discussions to selectively communicate material nonpublic information “either expressly or in code.” A federal rule called Regulation Fair Disclosure was adopted in 2000 to stop companies from leaking earnings forecasts to selected analysts, who passed along market-moving information to their clients.
+
+In 2010, Office Depot Inc. paid $1 million to settle SEC allegations that the retailer had selectively informed analysts that it wouldn’t meet their forecasts by talking down analysts’ expectations in one-on-one phone conversations.
+
+The company’s shares tumbled after it began contacting the analysts, and Office Depot ended up publicly disclosing a profit warning in a regulatory filing.
+
+The SEC said Office Depot didn’t regularly make such calls to analysts. The company didn’t admit or deny wrongdoing as part of the settlement.
+
+
+An Office Depot store in New Albany, Ind. In 2010, the retailer paid $1 million to settle allegations that it selectively called analysts to inform them that Office Depot wouldn’t meet their financial forecasts.
+PHOTO: LUKE SHARRETT/BLOOMBERG NEWS
+The modern landscape of earnings announcements and consensus estimates was created in the 1970s when federal regulators began requiring companies to issue quarterly financial reports. In 1976, a unit of brokerage firm Lynch, Jones & Ryan began collecting analysts’ earnings estimates and tallying “surprises,” or results that beat or missed expectations.
+
+At least six firms now collect and disseminate estimates that often include earnings per share, sales, profit margins and cash flow. Investors usually focus much of their attention on revenue and profit estimates.
+
+Near the end of each quarter, an elaborate dance occurs between analysts and companies. The companies want to avoid missing expectations, and analysts are striving to come up with the most accurate numbers.
+
+Some companies refuse to have any contact with analysts. Matthew Stroud, who used to run investor relations at Darden Restaurants Inc., says he wouldn’t answer calls from analysts before it reported results. He tells companies he does consulting work with now to do the same.
+
+Analysts “may pry and probe, and there’s the chance you could inadvertently give someone a sense of tone around earnings,” says Mr. Stroud, now at Arbor Advisory Group LLC, an investor-relations consulting firm.
+
+Johnson & Johnson doesn’t field calls from analysts between quarter end and its earnings release, though investor-relations personnel will occasionally answer “fact-based questions” sent by email, the company says.
+
+RELATED
+Beware of Customized ‘Earnings Before Bad Stuff’
+Anxiety Weighs on U.S. Corporate Earnings
+Near the end of the first quarter, AT&T steered analysts back to Mr. Stephens’s comments at a Deutsche Bank AG conference on March 9, say five analysts who spoke to the telecom company.
+
+AT&T’s finance chief said last year’s fourth quarter included “a slowdown in the handset upgrade cycle.” He added that he “wouldn’t be surprised to see that continue.”
+
+Jeffrey Kvaal of Nomura Securities says AT&T’s investor-relations team “is very diligent” before earnings releases “about making sure that the comments from the executives are reflected in the commentary from the sell side.”
+
+A week before the announcement, Mr. Kvaal cut his first-quarter sales estimate by $837 million to $40.54 billion, citing lower equipment sales. Two days before the results, the William Blair analysts cut their sales estimate by about $1 billion. With one day to go, Buckingham Research Group reduced its sales estimate by more than $1.1 billion, also noting the slower pace of upgrades.
+
+Analyst James Breen of William Blair says he talks to investor-relations personnel at AT&T “all the time.” He adjusted his forecast because the previous estimate hadn’t taken into account the comments from AT&T’s management at several investor conferences. Mr. Breen says he also didn’t want to be an outlier compared with other analysts who follow AT&T.
+
+Mr. Viola, AT&T’s investor-relations chief, says “companies can and do talk with analysts about their latest, publicly available information. That’s the job of investor relations, and it benefits the investing public.”
+
+He adds: “Analysts change their estimates for many reasons, and do so throughout the quarter.” About half the changes in the first quarter were made a week or less before the April 26 earnings announcement.
+
+AT&T says it falls short of analyst estimates about as often as it meets or beats them when looking at five commonly followed financial measurements. In the second quarter, AT&T narrowly missed analysts’ revenue projections.
+
+
+According to data from FactSet, AT&T met or beat the average earnings target in 10 of the last 13 quarters and missed by a penny per share three times.
+
+CBS has surpassed the average earnings estimate in 19 of the past 20 quarters. Several analysts who follow CBS say its investor-relations staff regularly contacts them to discuss their financial models.
+
+One analyst says CBS is “more aggressive than most” media companies in its interactions with analysts. A CBS spokeswoman wouldn’t comment.
+
+This spring, many analysts were struggling to figure out how Goldman Sachs Group Inc. would fare amid the first quarter’s market turbulence. From mid-March to mid-April, 16 analysts cut their earnings estimates by an average of 41%.
+
+When Goldman released results April 19, it had $2.68 a share in earnings, more than 10% higher than the lowered target. The stock rose 2.3%.
+
+Around the end of the first quarter, the bank’s investor-relations staff answered calls from analysts, many of whom routinely check in with the firm when updating their financial models and targets.
+
+
+Some conversations included discussions about comments from rival executives at investor conferences during the first quarter, some analysts say.
+
+Michael DuVally, a Goldman spokesman, says the discussions were appropriate, partly because analysts “are overloaded with data.” He adds: “Serving as a resource for public information is a sensible market practice.”
+
+Some analysts who called Citigroup’s investor-relations department near the end of the second quarter say they were referred to comments made by Chief Executive Michael Corbat at a June 2 investor conference.
+
+Mr. Corbat had said the bank’s second-quarter profits were likely to be “roughly flat” compared with the first quarter, when Citigroup earned $1.10 a share. In late June, the average earnings estimate for the second quarter was $1.18 a share. The number drifted down to $1.10 a share by July 14, the day before Citigroup announced results.
+
+After the quarter ended June 30, analysts also trimmed their revenue estimates for Citigroup by $237 million to $17.52 billion.
+
+
+Citigroup spokesman Mark Costiglio says investor-relations personnel didn’t provide any updates to Mr. Corbat’s comment. Any discussions with analysts “rely entirely on public disclosures the company has made as of those dates,” Mr. Costiglio adds.
+
+On July 15, Citigroup reported second-quarter profit of $1.24 a share, nearly 13% higher than the average estimate. The bank’s revenue of $17.55 billion topped analysts’ latest target by about $31 million.
+
+Citigroup executives said the bank’s performance was better than Mr. Corbat anticipated because of improved market conditions and a pickup in trading activity near the Brexit referendum on June 23.
+
+Write to Thomas Gryta at thomas.gryta@wsj.com, Serena Ng at serena.ng@wsj.com and Theo Francis at theo.francis@wsj.com
+
+Appeared in the August 5, 2016, print edition as 'analysts Steered to ‘surprises’'.
